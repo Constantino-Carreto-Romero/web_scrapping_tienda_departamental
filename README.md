@@ -4,7 +4,7 @@ Se elaboró un proyecto donde se hace un Web Scrapping de varias tiendas departa
 
 
 
-La siguiente tabla es una muestra de los datos que se obtienen:
+#### La siguiente tabla es una muestra de los datos que se obtienen:
 
 
 <img src="./img/tabla1.png"
